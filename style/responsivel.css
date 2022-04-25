@@ -1,0 +1,24 @@
+@media screen and (max-width:700px){
+    .menuNav{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .capa-principal{
+        font-size: 0.8em;
+    }
+
+    .capa-principal .botoes{
+       display: flex;
+       flex-direction: column;
+       align-items: stretch;
+       width: 220px;
+       padding: 0;
+       margin: 0%;
+    }
+
+    .capa-principal button{
+        padding: 5px;
+        margin: 5px 0;
+    }
+}

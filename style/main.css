@@ -72,10 +72,10 @@ header nav a:hover{
     width: 60%;
 }
 .capa-principal button{
-    margin: 20px 0;
+    margin: 20px 10px;
     padding: 5px 15px;
     border: none;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.726);
     color: white;
     cursor: pointer;
     transition: .3s ease all;
